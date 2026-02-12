@@ -1,4 +1,5 @@
 # Gaussian-Pulse-Propagation
+
 # Broadening of Gaussian Pulses
 
 ## Objective
@@ -62,9 +63,14 @@ Place and connect the following components:
 Compare the simulation results with the theoretical calculations and discuss any observed differences.
 
 
+
+
 ---
  Results to Record
 <img width="1448" height="1015" alt="Screenshot 2026-02-05 113211" src="https://github.com/user-attachments/assets/5a7b450e-e6d6-4efc-8c33-791775fdfa8c" />
+
+![WhatsApp Image 2026-02-12 at 11 04 13](https://github.com/user-attachments/assets/5ae1b166-308c-45f0-9966-abfe8eacbcf9)
+
 
 
 
