@@ -72,5 +72,13 @@ Compare the simulation results with the theoretical calculations and discuss any
 ![WhatsApp Image 2026-02-12 at 11 04 13](https://github.com/user-attachments/assets/5ae1b166-308c-45f0-9966-abfe8eacbcf9)
 
 
+## Output
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d881071a-0e4b-4f20-a0af-3431f4bea23d" />
+
+## Result
+Thus the Experiment was successfully completed and the output is verified
+
+
+
 
 
